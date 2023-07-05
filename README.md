@@ -1,2 +1,3 @@
 # authenticationServer
-Backend server code
+Backend server code for authentication of users in login page.
+
